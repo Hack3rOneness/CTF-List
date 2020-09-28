@@ -67,4 +67,7 @@
 - [SmashTheStack](http://smashthestac.com)
 
 [![Custom badge][NHC-shield]][NHC]
+
+[NHC-shield]: https://img.shields.io/badge/NHC-N00B%20HACK3RS%20COMMUNITY-brightgreen?style=plastic&logo=appveyor
+
 [NHC]: https://github.com/N00B-HACK3RS-COMMUNITY
