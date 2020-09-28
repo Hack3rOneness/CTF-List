@@ -71,3 +71,16 @@
 [NHC-shield]: https://img.shields.io/badge/NHC-N00B%20HACK3RS%20COMMUNITY-brightgreen?style=plastic&logo=appveyor
 
 [NHC]: https://github.com/N00B-HACK3RS-COMMUNITY
+
+[![Custom badge][NHC-shield]][NHC]
+[![Custom badge][Insta-shield]][Insta-me]
+[![LinkedIn][linkedIn-shield]][linkedin-url]
+
+[linkedin-url]: https://www.linkedin.com/in/sumit-o-a30926158
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[NHC-shield]: https://img.shields.io/badge/NHC-N00B%20HACK3RS%20COMMUNITY-brightgreen?style=plastic&logo=appveyor
+[NHC]: https://github.com/N00B-HACK3RS-COMMUNITY
+[Insta-shield]: https://img.shields.io/badge/~Hack3r__Oneness-Instagram-02f5ff?style=plastic&logo=appveyor
+[Insta-me]: https://instagram.com/hack3r_oneness
+
+
