@@ -65,3 +65,6 @@
 - [SANS Challenger](https://www.holidayhackchallenge.com/)
 
 - [SmashTheStack](http://smashthestac.com)
+
+[![Custom badge][NHC-shield]][NHC]
+[NHC]: https://github.com/N00B-HACK3RS-COMMUNITY
